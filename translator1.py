@@ -1,7 +1,5 @@
 from tkinter import *
-from tkinter import ttk , messagebox , font , simpledialog , filedialog , colorchooser
 from  deep_translator import GoogleTranslator
-from PIL import Image, ImageTk
 
 
 win = Tk()
@@ -70,6 +68,7 @@ result_text.pack(fill="x" , pady=10)
 
 
 mainloop()
+
 
 
 
